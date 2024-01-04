@@ -11,4 +11,5 @@
     <li> 예측형 집합자원의 최적집합을 제공하는 재생e 발전량 1개월치 데이터를 학습하여 비공개 되는 검증용 재생e 발전량/예측량 데이터로 <i>nMAE(normalization Mean Square Error:전력시장운영규칙 오차율)</i> 검증한다.</li>
 </ol>
 </div>
+
 [Image]: /Users/chosubin/Desktop/Folder/github/스크린샷 2024-01-04 오후 12.10.22.png "분석목표"
