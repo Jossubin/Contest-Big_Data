@@ -12,4 +12,4 @@
 </ol>
 </div>
 
-![(분석목표)](/Users/chosubin/Desktop/Folder/github/스크린샷 2024-01-04 오후 12.10.22.png "링크 설명(Title)")
+![(분석목표)]([images/](https://github.com/Jossubin/Contest-Big_Data/blob/main/images/스크린샷%202024-01-04%20오후%2012.20.41.png)https://github.com/Jossubin/Contest-Big_Data/blob/main/images/스크린샷%202024-01-04%20오후%2012.20.41.png "링크 설명(Title)")
