@@ -8,6 +8,5 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 분석목표 </div>
 <ol>
     <li>전력시장운영규칙의 재생에너지 예측 제도 대상자원인 중개사업자가 모집한 <i>예측형 집합자원의 최적 조합을 탐색</i>한다.</li>
-    <li> 예측형 집합자원의 최적집합을 제공하는 재생e 발전량 1개월치 데이터를 학습하여
-비공개 되는 검증용 재생e 발전량/예측량 데이터로 <i>nMAE(normalization Mean Square Error:전력시장운영규칙 오차율)</i> 검증한다.</li>
+    <li> 예측형 집합자원의 최적집합을 제공하는 재생e 발전량 1개월치 데이터를 학습하여 비공개 되는 검증용 재생e 발전량/예측량 데이터로 <i>nMAE(normalization Mean Square Error:전력시장운영규칙 오차율)</i> 검증한다.</li>
 </ol>
