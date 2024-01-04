@@ -12,4 +12,4 @@
 </ol>
 </div>
 
-[Image]: /Users/chosubin/Desktop/Folder/github/스크린샷 2024-01-04 오후 12.10.22.png "분석목표"
+![(분석목표)](/Users/chosubin/Desktop/Folder/github/스크린샷 2024-01-04 오후 12.10.22.png "링크 설명(Title)")
